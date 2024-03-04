@@ -6,6 +6,11 @@
     background-color: #01579b;
 }
 
+.button{
+    width: 35px;
+    height: 35px;
+}
+
 .top{
     height: 60px;
     background-color: #424242;
